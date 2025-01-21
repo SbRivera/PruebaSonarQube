@@ -1,0 +1,1 @@
+_RIC:\Users\luise\Desktop\Prueba1_U1\Prueba1_U1\Prueba1_U1\Prueba1_U1.csproj¢net8.0òCSharp12

@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88683-D192-453A-85BE-5377CE4D2AF0}|TestProject1\\TestProject1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88683-D192-453A-85BE-5377CE4D2AF0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88683-D192-453A-85BE-5377CE4D2AF0}|TestProject1\\TestProject1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\testproject1\\procedimientoscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88683-D192-453A-85BE-5377CE4D2AF0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\procedimientoscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88683-D192-453A-85BE-5377CE4D2AF0}|TestProject1\\TestProject1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\testproject1\\pacientecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88683-D192-453A-85BE-5377CE4D2AF0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\pacientecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88683-D192-453A-85BE-5377CE4D2AF0}|TestProject1\\TestProject1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\testproject1\\doctorescontrollerstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88683-D192-453A-85BE-5377CE4D2AF0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\doctorescontrollerstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88683-D192-453A-85BE-5377CE4D2AF0}|TestProject1\\TestProject1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\testproject1\\citascontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88683-D192-453A-85BE-5377CE4D2AF0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\citascontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\migrations\\20250119231813_fixprocedimientocitarelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\migrations\\20250119231813_fixprocedimientocitarelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\controllers\\procedimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\controllers\\procedimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\models\\procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\models\\procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\controllers\\doctorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\controllers\\doctorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|c:\\users\\sebas\\onedrive\\desktop\\prueba1_u1\\prueba1_u1\\prueba1_u1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A698F3-7234-4AC9-BD75-E8F77B1C1DB2}|Prueba1_U1\\Prueba1_U1.csproj|solutionrelative:prueba1_u1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Prueba1_U1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:41:28.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CitasControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\TestProject1\\CitasControllerTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\CitasControllerTest.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\TestProject1\\CitasControllerTest.cs",
+              "RelativeToolTip": "TestProject1\\CitasControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:40:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctoresControllersTest.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\TestProject1\\DoctoresControllersTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\DoctoresControllersTest.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\TestProject1\\DoctoresControllersTest.cs",
+              "RelativeToolTip": "TestProject1\\DoctoresControllersTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:42:12.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PacienteControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\TestProject1\\PacienteControllerTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\PacienteControllerTest.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\TestProject1\\PacienteControllerTest.cs",
+              "RelativeToolTip": "TestProject1\\PacienteControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:40:34.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcedimientosControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\TestProject1\\ProcedimientosControllerTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ProcedimientosControllerTest.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\TestProject1\\ProcedimientosControllerTest.cs",
+              "RelativeToolTip": "TestProject1\\ProcedimientosControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:44:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:39:19.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250119231813_FixProcedimientoCitaRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Migrations\\20250119231813_FixProcedimientoCitaRelationship.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Migrations\\20250119231813_FixProcedimientoCitaRelationship.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Migrations\\20250119231813_FixProcedimientoCitaRelationship.cs",
+              "RelativeToolTip": "Prueba1_U1\\Migrations\\20250119231813_FixProcedimientoCitaRelationship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:41:27.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Prueba1_U1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:02:34.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Prueba1_U1\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:18:55.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctoresController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Controllers\\DoctoresController.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Controllers\\DoctoresController.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Controllers\\DoctoresController.cs",
+              "RelativeToolTip": "Prueba1_U1\\Controllers\\DoctoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:34:04.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "Prueba1_U1\\Controllers\\CitasController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:35:43.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Models\\Cita.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Models\\Cita.cs",
+              "RelativeToolTip": "Prueba1_U1\\Models\\Cita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:05:02.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Procedimiento.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Models\\Procedimiento.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Models\\Procedimiento.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Models\\Procedimiento.cs",
+              "RelativeToolTip": "Prueba1_U1\\Models\\Procedimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:05:23.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProcedimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Controllers\\ProcedimientosController.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Controllers\\ProcedimientosController.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Controllers\\ProcedimientosController.cs",
+              "RelativeToolTip": "Prueba1_U1\\Controllers\\ProcedimientosController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:36:09.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\appsettings.json",
+              "RelativeDocumentMoniker": "Prueba1_U1\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\appsettings.json",
+              "RelativeToolTip": "Prueba1_U1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T12:50:34.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Models\\Doctor.cs",
+              "RelativeToolTip": "Prueba1_U1\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:04:39.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Program.cs",
+              "RelativeToolTip": "Prueba1_U1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:05:42.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Models\\Paciente.cs",
+              "RelativeToolTip": "Prueba1_U1\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:04:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\WeatherForecast.cs",
+              "RelativeToolTip": "Prueba1_U1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:31:46.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Prueba1_U1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Prueba1_U1\\Prueba1_U1\\Prueba1_U1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Prueba1_U1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:17:44.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
